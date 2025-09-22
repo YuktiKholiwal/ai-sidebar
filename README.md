@@ -28,7 +28,7 @@ A powerful Chrome extension that provides an AI chatbot assistant in a convenien
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/YuktiKholiwal/chatgpt-sidebar
-   cd ai-assistant-sidebar
+   cd extension
    ```
 
 2. **Load the extension in Chrome**:
