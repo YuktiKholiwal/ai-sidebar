@@ -62,7 +62,6 @@ A powerful Chrome extension that provides an AI chatbot assistant in a convenien
 5. AI will analyze the screenshot and respond
 
 ### Privacy Features
-- **PII Redaction**: Toggle the 🔒 button to mask sensitive information
 - **Local Storage**: All data stays on your device
 - **Secure API**: Keys stored locally, transmitted only to OpenRouter
 
@@ -82,17 +81,6 @@ ai-sidebar/
 └── README.md                  # This file
 ```
 
-### Building from Source
-
-1. **Clone and setup**:
-   ```bash
-   git clone https://github.com/yourusername/ai-assistant-sidebar.git
-   cd ai-assistant-sidebar
-   ```
-
-2. **No build step required** - the extension uses vanilla JavaScript
-
-3. **Load in Chrome** as described in the installation section
 
 ### Making Changes
 
@@ -106,8 +94,8 @@ We welcome contributions! Here's how to get started:
 
 ### Ways to Contribute
 
-- 🐛 **Bug Reports**: Found an issue? [Open a bug report](https://github.com/yourusername/ai-assistant-sidebar/issues)
-- 💡 **Feature Requests**: Have an idea? [Suggest a feature](https://github.com/yourusername/ai-assistant-sidebar/issues)
+- 🐛 **Bug Reports**: Found an issue? [Open a bug report](https://github.com/YuktiKholiwal/ai-sidebar/issues)
+- 💡 **Feature Requests**: Have an idea? [Suggest a feature](https://github.com/YuktiKholiwal/ai-sidebar/issues)
 - 🔧 **Code Contributions**: Submit pull requests for improvements
 - 📚 **Documentation**: Help improve our docs
 - 🌍 **Translations**: Add support for more languages
@@ -128,7 +116,7 @@ We welcome contributions! Here's how to get started:
 - Follow the existing code style
 - Test your changes thoroughly
 
-## 📋 API Models Supported
+## 📋 API Models Supported / You can add any model from open router that supports vision
 
 | Model | Provider | Vision Support | Type |
 |-------|----------|----------------|------|
@@ -144,7 +132,6 @@ We welcome contributions! Here's how to get started:
 - **Local Storage**: All conversations and settings stored locally
 - **No Data Collection**: We don't collect or store any user data
 - **Secure API**: Your API key is stored securely in Chrome's storage
-- **Optional PII Redaction**: Protect sensitive information in screenshots
 - **Open Source**: Full transparency - inspect the code yourself
 
 ## 📝 License
@@ -173,8 +160,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Getting Help
 
-- 📖 Check the [Issues](https://github.com/yourusername/ai-assistant-sidebar/issues) page
-- 💬 Start a [Discussion](https://github.com/yourusername/ai-assistant-sidebar/discussions)
+- 📖 Check the [Issues](https://github.com/YuktiKholiwal/ai-sidebar/issues) page
+- 💬 Start a [Discussion](https://github.com/YuktiKholiwal/ai-sidebar/discussions)
 - 📧 Contact the maintainers
 
 ## 🙏 Acknowledgments
@@ -182,14 +169,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenRouter](https://openrouter.ai/) for providing AI model APIs
 - The open-source community for inspiration and contributions
 - Chrome Extensions team for the excellent API documentation
-
-## 📊 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-assistant-sidebar?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-assistant-sidebar?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-assistant-sidebar)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ai-assistant-sidebar)
-
----
 
 Made with ❤️ by the open-source community. Star ⭐ this repo if you find it helpful!
