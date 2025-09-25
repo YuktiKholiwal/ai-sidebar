@@ -10,8 +10,6 @@ A powerful Chrome extension that provides an AI chatbot assistant in a convenien
 
 - **Multiple AI Models**: Support for Grok, GPT-5, and Gemini models with vision capabilities
 - **Image Analysis**: Capture screenshots and analyze them with AI
-- **Smart Image Processing**: Auto-resize large images (max 1280px) for optimal performance
-- **PII Redaction**: Optional privacy protection for sensitive information
 - **One-Click Actions**: Copy answers and ask follow-ups with single clicks
 - **Responsive Design**: Clean, dark theme with optimal readability (680px max-width)
 - **Secure**: API keys stored locally, never shared or transmitted insecurely
